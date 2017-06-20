@@ -1,0 +1,1 @@
+print "I am the start up object"
