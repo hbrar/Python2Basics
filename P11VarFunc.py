@@ -14,3 +14,13 @@ def print_argv(x):
     print "arg1: %s, arg2: %s" % (arg1, arg2)
     
 print_argv(argv)
+
+def print_sum(a, b):
+    print a+b
+    
+print_sum(3,4)
+
+def return_sum(c,d):
+    return c + d
+    
+print return_sum(4,6)
